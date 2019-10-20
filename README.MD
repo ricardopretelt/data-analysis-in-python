@@ -4,7 +4,7 @@
 
 * [Description](#description)
 * [Tools & Dependencies](#tools)
-* [Tools & Dependencies](#notebooks)
+* [Notebooks](#notebooks)
 * [Contributing](#Contributing)
 * [License](#License)
 
