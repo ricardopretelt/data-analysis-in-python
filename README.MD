@@ -23,7 +23,7 @@ To this the date these are the notebooks that are listed
 * [Intro to Python](intro-to-python.ipynb)
 * [Intro to Matplotlib](intro-to-matplotlib.ipynb)
 * [Intro to Pandas](intro-to-pandas.ipynb)
-* [Intro to Scikit-learn](intro-to-scikitlearnipynb)
+* [Intro to Scikit-learn](intro-to-scikitlearn.ipynb)
 
 ## Tools & Dependencies
 
