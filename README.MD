@@ -4,6 +4,7 @@
 
 * [Description](#description)
 * [Tools & Dependencies](#tools)
+* [Tools & Dependencies](#notebooks)
 * [Contributing](#Contributing)
 * [License](#License)
 
@@ -15,6 +16,14 @@ The objectives of this project are:
 
 * To be a friendly initiation for a beginner to data analysis with python.
 * A review to quickly remember how to use the different tools.
+
+## Notebooks
+To this the date these are the notebooks that are listed
+
+* [Intro to Python](intro-to-python.ipynb)
+* [Intro to Matplotlib](intro-to-matplotlib.ipynb)
+* [Intro to Pandas](intro-to-pandas.ipynb)
+* [Intro to Scikit-learn](intro-to-scikitlearnipynb)
 
 ## Tools & Dependencies
 
