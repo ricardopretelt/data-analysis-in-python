@@ -10,18 +10,19 @@
 
 ## Description
 
-This is a collection of notebooks about the distinct uses of the basic python libraries in statistics and data analysis.
+This is a collection of notebooks about the distinct uses of the basic python libraries in statistics and data analysis. Some of the commands, examples and strategies for data analysis and numerical handling I found them while studying my courses. Python, matplotlib, pandas and scikit-learn I found them while studying in [codecademy](codecademy.com) and for numpy in [udacity](udacity.com). Look the sites and official documentation for more information.
 
 The objectives of this project are:
 
 * To be a friendly initiation for a beginner to data analysis with python.
-* A review to quickly remember how to use the different tools.
+* A review to quickly remember how to use the different libraries.
 
 ## Notebooks
 To this the date these are the notebooks that are listed
 
 * [Intro to Python](intro-to-python.ipynb)
 * [Intro to Matplotlib](intro-to-matplotlib.ipynb)
+* [Intro to Numpy](intro-to-numpy.ipynb)
 * [Intro to Pandas](intro-to-pandas.ipynb)
 * [Intro to Scikit-learn](intro-to-scikitlearn.ipynb)
 
