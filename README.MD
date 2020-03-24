@@ -20,7 +20,7 @@ The objectives of this project are:
 ## Notebooks
 To this the date these are the notebooks that are listed
 
-* [Intro to python libraries: Main notebook](Summary of Python libraries.ipynb)
+* [Intro to python libraries: Main notebook](https://github.com/ricardopretelt/Intro-to-python-libraries/blob/master/Summary%20of%20Python%20libraries.ipynb)
 * [Intro to Python](intro-to-python.ipynb)
 * [Intro to Matplotlib](intro-to-matplotlib.ipynb)
 * [Intro to Numpy](intro-to-numpy.ipynb)
