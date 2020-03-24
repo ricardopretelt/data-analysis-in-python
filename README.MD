@@ -1,4 +1,4 @@
-# Intro to Python libraries
+# Data analysis in python
 
 ## Table of Contents
 
